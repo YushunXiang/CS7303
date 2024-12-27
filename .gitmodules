@@ -1,0 +1,3 @@
+[submodule "Advanced/Mask2Former"]
+	path = Advanced/Mask2Former
+	url = git@github.com:YushunXiang/Mask2Former.git
