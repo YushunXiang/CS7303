@@ -10,7 +10,7 @@ Image Processing and Machine Vision
 
 ### Mask2Former (Yushun Xiang)
 
-> [Config file](Mask2Former/configs/ade20k/semantic-segmentation/swin/maskformer2_swin_large_IN21k_384_bs16_160k_res640.yaml)
+> [Config file](Advanced/Mask2Former/configs/ade20k/semantic-segmentation/swin/maskformer2_swin_large_IN21k_384_bs16_160k_res640.yaml)
 
 Inference demo with pre-trained models:
 
