@@ -44,6 +44,7 @@ Results:
 
 ### PointRend
 
+
 > [Config file](Advanced/PointRend/configs/pointrend_semantic_R_101_FPN_1x_cityscapes.yaml)
 
 Training and evaluate FCN + PointRend
