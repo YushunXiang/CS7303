@@ -41,3 +41,17 @@ Results:
 [12/28 04:00:18 d2.evaluation.testing]: copypaste: mIoU,fwIoU,mACC,pACC
 [12/28 04:00:18 d2.evaluation.testing]: copypaste: 56.0270,75.8601,69.3965,85.2141
 ```
+
+### PointRend
+
+> [Config file](Advanced/PointRend/config/pointrend_semantic_R_101_FPN_1x_cityscapes.yaml)
+
+Training and evaluate FCN + PointRend
+```shell
+cd Advanced/PointRend
+python train.py
+```
+
+Results:
+```log
+```
