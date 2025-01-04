@@ -44,7 +44,8 @@ Results:
 
 ### PointRend
 
-> [Config file](Advanced/PointRend/config/pointrend_semantic_R_101_FPN_1x_cityscapes.yaml)
+
+> [Config file](Advanced/PointRend/configs/pointrend_semantic_R_101_FPN_1x_cityscapes.yaml)
 
 Training and evaluate FCN + PointRend
 ```shell
@@ -54,4 +55,8 @@ python train.py
 
 Results:
 ```log
+mIOU:  31.105211120821973
+fwIOU:  62.61171271106312
+mACC:  40.04850187657314
+pACC:  75.99589899660421
 ```
